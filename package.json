@@ -1,18 +1,29 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@diotoborg/quo-dolorem-ducimus",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "scripts": {},
+  "author": "diotobenijj",
   "license": "MIT",
+  "dependencies": {
+    "@diotoborg/illo-amet-architecto": "^1.0.0",
+    "@diotoborg/psychic-bassoon": "^1.2.10",
+    "@diotoborg/verbose-robot": "^1.1.11"
+  },
+  "keywords": [
+    "structuredClone",
+    "BigUint64Array",
+    "cache",
+    "command",
+    "dynamodb"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/diotoborg/quo-dolorem-ducimus.git"
   },
-  "dependencies": {
-    
+  "homepage": "https://github.com/diotoborg/quo-dolorem-ducimus/#readme",
+  "bugs": {
+    "url": "https://github.com/diotoborg/quo-dolorem-ducimus/issues"
   }
 }
